@@ -10,3 +10,9 @@
 * DB    	        Oracle 11g XE
 * Framework   Spring Tool Suite 3.9.15, Bootstrap 5.0
 * ORM              Mybatis 3.5.9
+
+# 요구사항정의서
+![image](https://github.com/user-attachments/assets/6abe8382-58b7-437d-a86c-bf8f7431ae0c)
+
+# Erd
+![image](https://github.com/user-attachments/assets/123ef7aa-bef3-480a-9964-0ad505ca34d3)
